@@ -12,9 +12,31 @@
 
 ## 最新 · Latest
 
-还没有条目。下一次入库会把当天放在这里，并写进年份文件。
+## 2026-10-03
 
-No entries yet. The next filing will sit here, and in the year file.
+- [One Brain, Any Body: Google DeepMind's Keerthana on Gemini Robotics 2, Cross-Embodiment & Humanoids](https://www.cognitiverevolution.ai/one-brain-any-body-google-deepmind-s-keerthana-on-gemini-robotics-2-cross-embodiment-humanoids/)
+  - 中文：DeepMind Gemini Robotics lead Keerthana 谈 cross-embodiment 与仍处 GPT-2 时代。
+  - English: DeepMind Gemini Robotics lead Keerthana on cross-embodiment, and a field still in its GPT-2 era.
+
+- [Beyond the God Model | Alex Atallah & Amjad Masad](https://podcasts.apple.com/us/podcast/beyond-the-god-model-alex-atallah-amjad-masad/id842818711?i=1000792968232)
+  - 中文：OpenRouter Atallah × Replit Masad 谈多模型 neurodiversity 与企业独立层。
+  - English: OpenRouter's Atallah and Replit's Masad on multi-model neurodiversity and an independent enterprise layer.
+
+- [Cost Per Token Is the Wrong Metric for AI | Arena](https://podcasts.apple.com/us/podcast/cost-per-token-is-the-wrong-metric-for-ai-arena/id1891088763?i=1000792942906)
+  - 中文：Arena CEO Angelopoulos 主张 cost-per-task 取代 cost-per-token。
+  - English: Arena CEO Angelopoulos argues cost-per-task should replace cost-per-token.
+
+- [Anthropic Will Reach Full RSI by August 2027 | Rayan Krishnan](https://podcasts.apple.com/us/podcast/anthropic-will-reach-full-rsi-by-august-2027-rayan-krishnan/id1891088763?i=1000792957385)
+  - 中文：Vals AI Krishnan 给 Anthropic full RSI ~2027 夏时间线。
+  - English: Vals AI's Krishnan puts Anthropic full RSI around summer 2027.
+
+- [How To Prevent AI Military Power Grabs | William MacAskill](https://podcasts.apple.com/us/podcast/how-to-prevent-ai-military-power-grabs-william-macaskill/id1891088763?i=1000792981617)
+  - 中文：MacAskill 谈超智价值 lock-in 与军事 AI 权力集中。
+  - English: MacAskill on superintelligent value lock-in and concentrated military AI power.
+
+- [E10 前川：基因如何控制我们，我们就如何控制超级智能](https://www.xiaoyuzhoufm.com/episode/6ac0a206e742e36efcbdf8a1)
+  - 中文：前 MiniMax 产品负责人张前川用基因隐喻谈超级智能对齐。
+  - English: Former MiniMax product lead Zhang Qianchuan uses a gene metaphor for superintelligence alignment.
 
 ## 关于 · About
 
