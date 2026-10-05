@@ -12,31 +12,23 @@
 
 ## 最新 · Latest
 
-## 2026-10-03
+## 2026-10-04
 
-- [One Brain, Any Body: Google DeepMind's Keerthana on Gemini Robotics 2, Cross-Embodiment & Humanoids](https://www.cognitiverevolution.ai/one-brain-any-body-google-deepmind-s-keerthana-on-gemini-robotics-2-cross-embodiment-humanoids/)
-  - 中文：DeepMind Gemini Robotics lead Keerthana 谈 cross-embodiment 与仍处 GPT-2 时代。
-  - English: DeepMind Gemini Robotics lead Keerthana on cross-embodiment, and a field still in its GPT-2 era.
+- [Sam Altman, decoded: OpenAI's CEO on Anthropic, regulation, and accepting some bad to get AI's good](https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217)
+  - 中文：Altman 本人谈 OpenAI 和 Anthropic 的监管分歧，说世界应接受一些坏事来换 AI 的好处。
+  - English: Altman himself on OpenAI–Anthropic regulatory splits, saying the world should accept some harm to get AI's benefits.
 
-- [Beyond the God Model | Alex Atallah & Amjad Masad](https://podcasts.apple.com/us/podcast/beyond-the-god-model-alex-atallah-amjad-masad/id842818711?i=1000792968232)
-  - 中文：OpenRouter Atallah × Replit Masad 谈多模型 neurodiversity 与企业独立层。
-  - English: OpenRouter's Atallah and Replit's Masad on multi-model neurodiversity and an independent enterprise layer.
+- [OpenAI's head of ChatGPT: we're entering the age of agents](https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering)
+  - 中文：OpenAI ChatGPT/Codex 负责人 Tibo Sottiaux 谈 Dots、agent 会接管大部分网上操作，以及编排工作流只是过渡阶段。
+  - English: OpenAI ChatGPT/Codex lead Tibo Sottiaux on Dots, agents taking over most online actions, and orchestration workflows as a transitional stage.
 
-- [Cost Per Token Is the Wrong Metric for AI | Arena](https://podcasts.apple.com/us/podcast/cost-per-token-is-the-wrong-metric-for-ai-arena/id1891088763?i=1000792942906)
-  - 中文：Arena CEO Angelopoulos 主张 cost-per-task 取代 cost-per-token。
-  - English: Arena CEO Angelopoulos argues cost-per-task should replace cost-per-token.
+- [David George & Jack Altman on AI autonomy and the next $25 trillion](https://a16z.simplecast.com/episodes/david-george-jack-altman-on-ai-autonomy-and-the-next-25-trillion-bFIBGYtV)
+  - 中文：a16z 的 David George 谈 AI 栈各层可以同时增长和资本节奏。这是转播，原节目 10-01 首发于 Uncapped。
+  - English: a16z's David George on every AI-stack layer growing at once and capital pace. A rebroadcast; the original aired 10-01 on Uncapped.
 
-- [Anthropic Will Reach Full RSI by August 2027 | Rayan Krishnan](https://podcasts.apple.com/us/podcast/anthropic-will-reach-full-rsi-by-august-2027-rayan-krishnan/id1891088763?i=1000792957385)
-  - 中文：Vals AI Krishnan 给 Anthropic full RSI ~2027 夏时间线。
-  - English: Vals AI's Krishnan puts Anthropic full RSI around summer 2027.
-
-- [How To Prevent AI Military Power Grabs | William MacAskill](https://podcasts.apple.com/us/podcast/how-to-prevent-ai-military-power-grabs-william-macaskill/id1891088763?i=1000792981617)
-  - 中文：MacAskill 谈超智价值 lock-in 与军事 AI 权力集中。
-  - English: MacAskill on superintelligent value lock-in and concentrated military AI power.
-
-- [E10 前川：基因如何控制我们，我们就如何控制超级智能](https://www.xiaoyuzhoufm.com/episode/6ac0a206e742e36efcbdf8a1)
-  - 中文：前 MiniMax 产品负责人张前川用基因隐喻谈超级智能对齐。
-  - English: Former MiniMax product lead Zhang Qianchuan uses a gene metaphor for superintelligence alignment.
+- [Richard Socher on Recursive and self-improving AI](https://feeds.megaphone.fm/DVVTS2890392624)
+  - 中文：Socher 本人谈 Recursive 押注自我改进的 AI，P(doom) 为零。发布时间比窗口早约两小时，昨天漏核，今天补。
+  - English: Socher himself on Recursive betting on self-improving AI, with P(doom) at zero. Released ~two hours before the window; missed yesterday, filed today.
 
 ## 关于 · About
 
