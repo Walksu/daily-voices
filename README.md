@@ -12,6 +12,12 @@
 
 ## 最新 · Latest
 
+## 2026-10-07
+
+- [Dylan Field × TBPN](https://share.transistor.fm/s/a06bfda5)
+  - 中文：Dylan Field：Figma 设计 agent 是加力不是替代
+  - English: Dylan Field: Figma design agents are force-multipliers, not replacements.
+
 
 ## 2026-10-06
 
