@@ -12,22 +12,27 @@
 
 ## 最新 · Latest
 
+## 2026-10-08
+
+- [Andrew Ng × Susan Athey · WDR 2026 fireside chat](https://www.youtube.com/watch?v=WmgPAOIhrko)
+  - 中文：吴恩达本人长谈，对安全叙事、可验证任务、教育都有清楚立场
+  - English: Andrew Ng in a long conversation, with clear positions on safety narratives, verifiable tasks and education.
+
+- [Cognitive Revolution × Woodson Martin (OutSystems)](https://www.cognitiverevolution.ai/software-that-never-breaks-outsystems-ceo-woodson-martin-on-building-enterprise-grade-apps-at-ai-speed/)
+  - 中文：企业软件 CEO 讲 agent 写的代码进生产时的约束
+  - English: An enterprise software CEO on the constraints of putting agent-written code into production.
+
+
 ## 2026-10-07
 
 - [Dylan Field × TBPN](https://share.transistor.fm/s/a06bfda5)
   - 中文：Dylan Field：Figma 设计 agent 是加力不是替代
   - English: Dylan Field: Figma design agents are force-multipliers, not replacements.
 
+- [Pioneers of AI × Tibo Sottiaux](https://www.rova.nz/podcasts/pioneers-of-ai/episodes/openais-tibo-sottiaux-doesnt-want-humans-to-be-an-afterthought)
+  - 中文：Tibo Sottiaux 本人讲为安全推迟 Astra 的决定
+  - English: Tibo Sottiaux explains in his own words the safety decision to delay Astra.
 
-## 2026-10-06
-
-- [TITV AI Deep Dive × Stuart Russell: obedience vs alignment](https://www.youtube.com/watch?v=jiXeRe567CI)
-  - 中文：教授本人谈「听话」和「对齐」的差距。
-  - English: Stuart Russell himself on the gap between obedience and alignment.
-
-- [Reflection’s founders on building a DeepSeek of the West](https://sources.news/p/reflection-founders-open-weight-beam-release)
-  - 中文：Reflection 创始人 Laskin & Antonoglou 谈开源权重和安全。
-  - English: Reflection founders Laskin and Antonoglou on open-weight models and safety.
 
 ## 关于 · About
 
